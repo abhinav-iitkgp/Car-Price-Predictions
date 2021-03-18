@@ -16,6 +16,6 @@ Model creation
 Model Deployment
 The whole project is deployed on Heroku Cloud.
 
-Here is the link where you can access the project live : https://cardheko.herokuapp.com/
+Here is the link where you can access the project live : https://car-price-dekho.herokuapp.com
 
 Thank you!
